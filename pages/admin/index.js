@@ -290,7 +290,7 @@ export default function AdminDashboard() {
     }
 
     return (
-        <div className="container mx-auto p-4">
+        <div className="container mx-auto p-4 text-black">
             <ToastContainer />
             <header className="flex justify-between items-center mb-8">
                 <h1 className="text-3xl font-bold flex items-center">
