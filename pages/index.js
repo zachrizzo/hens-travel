@@ -477,29 +477,29 @@ export default function LandingPage() {
             <p>&copy; 2024 Paris Tours. {t.footer.rights}.</p>
           </div>
           <div>
-            <h4 className="font-semibold mb-2">Contact Us</h4>
+            {/* <h4 className="font-semibold mb-2">Contact Us</h4> */}
             <div className="space-y-2">
               <div className="flex items-center">
-                <MapPin className="mr-2" size={18} />
-                <span>123 Rue de Paris, 75001 Paris, France</span>
+                {/* <MapPin className="mr-2" size={18} /> */}
+                {/* <span>123 Rue de Paris, 75001 Paris, France</span> */}
               </div>
               <div className="flex items-center">
-                <Mail className="mr-2" size={18} />
-                <a href="mailto:contact@paristours.com" className="hover:underline">contact@paristours.com</a>
+                {/* <Mail className="mr-2" size={18} /> */}
+                {/* <a href="mailto:contact@paristours.com" className="hover:underline">contact@paristours.com</a> */}
               </div>
               <div className="flex items-center">
-                <Phone className="mr-2" size={18} />
-                <a href="tel:+33123456789" className="hover:underline">+33 1 23 45 67 89</a>
+                {/* <Phone className="mr-2" size={18} />
+                <a href="tel:+33123456789" className="hover:underline">+33 1 23 45 67 89</a> */}
               </div>
             </div>
           </div>
           <div>
-            <h4 className="font-semibold mb-2">Follow Us</h4>
+            {/* <h4 className="font-semibold mb-2">Follow Us</h4>
             <div className="flex space-x-4">
               <a href="#" className="hover:text-accent">Facebook</a>
               <a href="#" className="hover:text-accent">Instagram</a>
               <a href="#" className="hover:text-accent">Twitter</a>
-            </div>
+            </div> */}
           </div>
         </div>
       </footer>
