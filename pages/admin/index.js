@@ -574,6 +574,9 @@ export default function AdminDashboard() {
                                 </div>
 
                                 {/* Hero Image Upload */}
+                                <p>
+                                    You will see the change when you hit save.
+                                </p>
                                 <div>
                                     <Label htmlFor="heroImage">Upload Hero Image</Label>
                                     <div className="flex items-center space-x-2">
