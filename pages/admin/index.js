@@ -402,7 +402,7 @@ export default function AdminDashboard() {
                                         />
                                     </div>
                                 </div>
-                                <div>
+                                {/* <div>
                                     <Label htmlFor="imageUrl">Image URL</Label>
                                     <Input
                                         id="imageUrl"
@@ -411,7 +411,7 @@ export default function AdminDashboard() {
                                         onChange={handleTourChange}
                                         required
                                     />
-                                </div>
+                                </div> */}
                                 <div>
                                     <Label htmlFor="image">Upload Image</Label>
                                     <div className="flex items-center space-x-2">
